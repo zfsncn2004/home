@@ -2,27 +2,27 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.770122.xyz/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://alist.770122.xyz:66/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "视频",
+    "link": "https://tvbox.770122.xyz:66/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "OpenAI",
+    "link": "https://ai.770122.xyz/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "谷歌AI",
+    "link": "https://talkai.770122.xyz/"
   },
   {
     "icon": "Fire",
@@ -31,7 +31,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "网址导航",
+    "link": "https://web.770122.xyz:66/"
   }
 ]
