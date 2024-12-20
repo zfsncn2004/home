@@ -32,6 +32,16 @@
   {
     "icon": "LaptopCode",
     "name": "网址导航",
-    "link": "https://web.770122.xyz:66/"
+    "link": "https://web.770122.xyz/"
+  },
+   {
+    "icon": "Book",
+    "name": "文生图",
+    "link": "http://flux.20060123.xyz/"
+  },
+  {
+    "icon": "Book",
+    "name": "文生图",
+    "link": "http://flux.20060123.xyz/"
   }
 ]
